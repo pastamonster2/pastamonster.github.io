@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "pastamonster"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/제목없음.png"
   bio              : "I love PASTA"
   location         : "Seoul, Korea"
   email            : 2ddolddol@naver.com
